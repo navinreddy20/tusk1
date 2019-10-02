@@ -1,0 +1,6 @@
+We are creating small example  Django application using python and django
+Example name is Hello world : we just print hello world! using python django.
+
+We are using to create the Django app
+1.python(3.7 version)
+2.Django(2.2 version)
